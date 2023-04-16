@@ -24,4 +24,4 @@ ProceduralMachine is released under the MIT license. See the `LICENSE` file for 
 
 ## Credits
 
-ProceduralMachine was created by [Your Name] for [Your Company]. If you find this script useful, consider [buying me a beer](https://www.buymeacoffee.com/rumnizzle) or [following me on Twitter](https://twitter.com/rumnizzle).
+ProceduralMachine was created by Robert Rumney for Ingozi Games. If you find this script useful, consider [buying me a beer](https://www.buymeacoffee.com/rumnizzle) or [following me on Twitter](https://twitter.com/rumnizzle).
